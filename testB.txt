@@ -1,0 +1,5 @@
+1. 
+a. !~ ++ -- are right ti left
+b. partially true because they are equivalent within the main 
+c. true because the decrece is the number of elements between them
+
